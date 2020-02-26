@@ -1,8 +1,8 @@
 <template>
-  <div class="home">
+  <div class="cart">
     <!-- -->
     <div class="container text-center">
-      <h1>Homepage</h1>
+      <h1>Your choosen products Here!</h1>
     </div>
     
   </div>
@@ -12,7 +12,7 @@
 // @ is an alias to /src
 
 export default {
-  name: 'Home',
+  name: 'Cart',
   components: {
     // HelloWorld
     // Header
